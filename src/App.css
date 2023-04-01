@@ -1,0 +1,47 @@
+#head {
+  background-color: rgb(14, 226, 226);
+}
+.img-arrow {
+  height: 20px;
+  width: 20px;
+  color: black;
+}
+.wh-size{
+  width: 720px;
+  min-height: 700px !important;
+}
+.a{
+ background-color:gold;
+ border: solid black;
+}
+.green-circle{
+  border: 1px green solid;
+  border-radius: 50%;
+  background-color: green;
+  height: 12px;
+  width: 12px;
+}
+.red-circle{
+  border: 1px red solid;
+  border-radius: 50%;
+  background-color: red;
+  height: 12px;
+  width: 12px;
+}
+.btn-link{
+  background-color: white;
+  color: green;
+  border: solid white;
+}
+.minus-box{
+  width: 20px;
+  height: 5px;
+  background-color: rgb(6, 68, 98);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.b-blue{
+  border: 1px rgb(115, 115, 212) solid;
+  border-radius: 5px;
+}
+
